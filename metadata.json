@@ -1,0 +1,5 @@
+{
+  "name": "Online Election Platform",
+  "description": "A web application to conduct elections. The website owner can upload a ballot paper image, from which the candidate list is extracted using Gemini. Voters can then enter their details and vote. Once the election is closed, the app displays sortable and printable results with percentages.",
+  "requestFramePermissions": []
+}
